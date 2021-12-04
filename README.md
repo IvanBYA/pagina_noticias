@@ -5,7 +5,7 @@
 Este proyecto fue creado con la finalidad de Practicar mis conocimientos de creación de Paginas web partiendo desde la maquetación web hasta los estilos en CSS3.
 
 # URL de la Pagina
-https://ivanbya.github.io/paginanoticias/
+https://ivanbya.github.io/pagina_noticias/
 
 Autor: IvanBYA
 
